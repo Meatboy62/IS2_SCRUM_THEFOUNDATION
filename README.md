@@ -1,3 +1,4 @@
+![](https://i.kym-cdn.com/entries/icons/original/000/031/994/Screen_Shot_2019-12-02_at_11.23.01_AM.png)
 # IS2_SCRUM_THEFOUNDATION
 
 Bautista Gonzalez Francisco Paulo
