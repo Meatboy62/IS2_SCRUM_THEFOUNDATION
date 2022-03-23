@@ -30,5 +30,5 @@ Trejo Martinez Jorge Joshua
   - Equipo
  
 Gonzalez Millan Mario Alberto
--mariogonzalez62@aragon.unam.mx
-  -Equipo
+- mariogonzalez62@aragon.unam.mx
+  - Equipo
