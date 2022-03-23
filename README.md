@@ -2,9 +2,11 @@
 
 Bautista Gonzalez Francisco Paulo
 - paulobautista49@aragon.unam.mx
+  - Product Owner
 
 Cruz Gallardo Pablo Eduardo
 - pablocruz92@aragon.unam.mx
+  -Scrum Master
 
 Gonzalez Lopez Karen Alejnadra
 - karengonzalez01@aragon.unam.mx
