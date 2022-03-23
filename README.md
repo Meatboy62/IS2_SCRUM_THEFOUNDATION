@@ -28,3 +28,7 @@ Soberanes Ramírez Rubén Sebastián
 Trejo Martinez Jorge Joshua
 - joshuatrejo18@aragon.unam.mx
   - Equipo
+ 
+Gonzalez Millan Mario Alberto
+-mariogonzalez62@aragon.unam.mx
+  -Equipo
