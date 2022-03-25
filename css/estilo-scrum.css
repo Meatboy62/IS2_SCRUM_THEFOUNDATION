@@ -44,6 +44,7 @@
       
   }
 
+  
   .B-inicio:hover:before{
       transition: 0.5s all ease;
       left: 0;
