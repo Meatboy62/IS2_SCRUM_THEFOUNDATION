@@ -52,3 +52,17 @@
       opacity: 1;
       z-index: -1;
   }
+
+  .contenido{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: left;
+    margin-top: 30px;
+    
+  }
+
+  .Titulo-contenido{
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
