@@ -485,3 +485,8 @@ a {
     width: 70%;
   }
 }
+
+.estilos {
+  width: 48%;
+  align-items: right;
+}
