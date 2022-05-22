@@ -1,12 +1,12 @@
-![](https://i.kym-cdn.com/entries/icons/original/000/031/994/Screen_Shot_2019-12-02_at_11.23.01_AM.png)
+![](https://static.wikia.nocookie.net/leagueoflegends/images/0/07/League_of_Legends_icon.png/revision/latest?cb=20191018194326)
 # IS2_SCRUM_THEFOUNDATION
 
 Bautista Gonzalez Francisco Paulo
 - paulobautista49@aragon.unam.mx
   - Product Owner
 
-Cruz Gallardo Pablo Eduardo
-- pablocruz92@aragon.unam.mx
+Gonzalez Millan Mario Alberto
+- mariogonzalez62@aragon.unam.mx
   - Scrum Master
 
 Gonzalez Lopez Karen Alejnadra
@@ -29,6 +29,6 @@ Trejo Martinez Jorge Joshua
 - joshuatrejo18@aragon.unam.mx
   - Equipo
  
-Gonzalez Millan Mario Alberto
-- mariogonzalez62@aragon.unam.mx
+ Cruz Gallardo Pablo Eduardo
+- pablocruz92@aragon.unam.mx
   - Equipo
